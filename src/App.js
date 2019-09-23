@@ -27,7 +27,7 @@ class App extends React.Component {
   render(){
     return (
       <div>
-        <h3>open the JS console to see the API response</h3>
+        <h3>Open the JS console to see the API response</h3>
         <Button onButtonClick={this.onButtonClick} />
       </div>
     )
